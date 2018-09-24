@@ -1,0 +1,13 @@
+netacad spravit konto: hold na seattoken
+download wireshark
+osa layers vzdy z dola hore
+aplikacna lay
+presentacna lay
+relacna	lay
+transport lay
+sietova lay
+spojova lay
+fyzicka lay
+
+login rak2017 Finuctev4
+

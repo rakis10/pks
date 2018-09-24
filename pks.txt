@@ -1,0 +1,19 @@
+analyza dat. ramca
+destination adress 6B, src address 6B
+dat, 
+<05dc length -> 802.3
+0800< type 
+0800 - Ipv4 -> ethernet2 protocol
+0806 - ARP -
+FFFF- raw
+AAAA - snap
+iny 802.3 llc protoko
+
+IPv4
+	45
+4- verzia
+5- header length
+
+tcp a udp hlavne 
+
+8 B protokol 
